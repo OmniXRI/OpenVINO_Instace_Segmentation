@@ -5,4 +5,4 @@ OpenVINO 2019 R2 版
 
 修正 \deployment_tools\inference_engine\demos\mask_rcnn_demo\main.cpp
 
-增加顯示92類標籤及各段計算時間功能。
+增加顯示COCO 92類標籤及各段計算時間功能。
