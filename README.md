@@ -35,7 +35,4 @@ OpenVINO 2019 R2 版
 
 ![image](https://raw.githubusercontent.com/OmniXRI/OpenVINO_Instace_Segmentation/master/out_581061_g3r_FP32.png)
 
-完整說明文章請參閱： <a href="http://omnixri.blogspot.com/2019/09/openvino.html" target="_blank">【OpenVINO™教學】土炮影像實例分割型智慧監控系統</a> 
-
-[【OpenVINO™教學】土炮影像實例分割型智慧監控系統][1]
-[1]: http://omnixri.blogspot.com/2019/09/openvino.html?target="_blank
+完整說明文章請參閱： [【OpenVINO™教學】土炮影像實例分割型智慧監控系統 http://omnixri.blogspot.com/2019/09/openvino.html](http://omnixri.blogspot.com/2019/09/openvino.html)
